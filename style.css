@@ -1,5 +1,7 @@
 body{
     background-color: rgb(133, 98, 214);
+    margin: 0;
+    padding: 0;
 }
 h1{
     color: rgb(241, 228, 104);
@@ -7,4 +9,11 @@ h1{
 img{
    width: 150px;
    height: 100px;
+   position: absolute;
+   top: 10px;
+   right: 10px;
+}
+.container{
+position:relative;
+height: 100vh;
 }
