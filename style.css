@@ -4,3 +4,7 @@ body{
 h1{
     color: rgb(241, 228, 104);
 }
+img{
+    margin: 100px;
+    padding: 100px;
+}
