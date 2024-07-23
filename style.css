@@ -3,4 +3,5 @@ body{background-image: url(ft\ agrinho.jpg);
     padding: 0;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
