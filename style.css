@@ -4,8 +4,3 @@ body{background-image: url(ft\ agrinho.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
-
-.container{
-position:relative;
-height: 100vh;
-}
