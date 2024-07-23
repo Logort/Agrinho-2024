@@ -1,6 +1,8 @@
 body{background-image: url(ft\ agrinho.jpg);
         margin: 0;
     padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 plantacao
