@@ -2,6 +2,5 @@ body{
     background-image: url(tomates.jpg);
     background-repeat: no-repeat;
     background-position: center;
-   width: 2090;
-height: 1800;
+   background-size: cover;
 }
